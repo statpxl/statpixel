@@ -2,3 +2,4 @@
 /public/build/
 /public/index.css
 .DS_Store
+.gitpod.yml
